@@ -165,7 +165,7 @@ public class BookPackage extends JFrame {
                         name = rs.getString("name");
 
                         String EMAIL = "1ds22cs106@dsce.edu.in";
-                        String password = "hcwe emls clcg gfra";
+                        String password = "hcwe emls xxxx xxxx";
                         String To = mail;
                         String Subj = "Travel and Tourism";
                         String Mess = "Hello "+name+" Your package has been booked succesfully.THANKS FOR BOOKING AND KINDLY FILL THIS FORM https://forms.gle/uDvwyKoMcMdqZMrcA ";
