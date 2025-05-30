@@ -305,7 +305,7 @@ public class S extends javax.swing.JFrame {
         {                                         
         // TODO add your handling code here:
         String EMAIL="1ds22cs106@dsce.edu.in";
-        String password ="hcwe emls clcg gfra";
+        String password ="hcwe emls xxxx xxxx";
         String To=email.getText();
         String Subj="Travel and Tourism";
         char[] pas = pass.getPassword();
